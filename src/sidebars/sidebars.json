@@ -1124,7 +1124,7 @@
             "children": [
                 {
                     "name": "Migrate between PostHog instances",
-                    "url": "/docs/migrate/migrate-between-cloud-and-self-hosted"
+                    "url": "/docs/migrate/migrate-between-posthog-instances"
                 },
                 {
                     "name": "Migrate from Amplitude",
@@ -1132,7 +1132,7 @@
                 },
                 {
                     "name": "Migrate to PostHog Cloud EU",
-                    "url": "/tutorials/migrate-eu-cloud"
+                    "url": "/tutorials/migrate-eu-cloud" TODO: Decide merge the eu cloud tutorial? Or keep as separate but reuse the same content
                 },
                 {
                     "name": "To another self-hosted instance",
