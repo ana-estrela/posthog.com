@@ -59,4 +59,4 @@ Once all these are completed, you’ll be fully migrated to EU Cloud.
 
 ## Further reading
 
-For more information about migration, check out our [docs](/docs/migrate/migrate-between-cloud-and-self-hosted).
+For more information about migration, check out our [docs](/docs/migrate/migrate-between-posthog-instances).

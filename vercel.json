@@ -534,6 +534,14 @@
             "source": "/docs/self-host/migrate/migrate-to-another-self-hosted-instance",
             "destination": "/docs/migrate/migrate-between-posthog-instances"
         },
+        {
+            "source": "/docs/migrate/migrate-to-another-self-hosted-instance",
+            "destination": "/docs/migrate/migrate-between-posthog-instances"
+        },
+        {
+            "source": "/docs/migrate/migrate-between-cloud-and-self-hosted",
+            "destination": "/docs/migrate/migrate-between-posthog-instances"
+        },
         { "source": "/handbook/product/pm-rampup", "destination": "/handbook/people/ramp-up/product-manager" },
         {
             "source": "/handbook/small-teams/team-structure/why-small-teams",

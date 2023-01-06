@@ -1136,7 +1136,7 @@
                 },
                 {
                     "name": "To another self-hosted instance",
-                    "url": "/docs/migrate/migrate-to-another-self-hosted-instance"
+                    "url": "/docs/migrate/migrate-between-posthog-instances"
                 },
                 {
                     "name": "Export your events",
