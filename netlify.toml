@@ -2566,3 +2566,9 @@
 [[redirects]]
     from = "/blog/using-posting"
     to = "/blog/using-posthog"
+
+
+# Added: 2023-01-06
+[[redirects]]
+    from = "/docs/migrate/migrate-to-another-self-hosted-instance"
+    to = "/docs/migrate/migrating-when-you-cant-login"
