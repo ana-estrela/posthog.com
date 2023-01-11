@@ -41,4 +41,4 @@ We usually focus campaigns on users in the US, Canada, UK, Germany and France, a
 
 ## Tracking conversion
 
-We track conversion in the PostHog app, as using 3rd party trackers like Google Tag Manager is against our brand and values. We have [an app](https://github.com/PostHog/plugin-write-google-ads-to-zapier) which syncs PostHog signups to Zapier, which connects to a Google Sheet that is than synced automatically to our Google Ads account once a day.
+We track conversion in the PostHog app, as using 3rd party trackers like Google Tag Manager is against our brand and values. We have [an app](https://github.com/PostHog/plugin-write-google-ads-to-zapier) which syncs PostHog signups to Zapier, which connects to a Google Sheet that is then synced automatically to our Google Ads account once a day.
